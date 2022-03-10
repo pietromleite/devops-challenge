@@ -11,8 +11,8 @@ RDS
 - DB_PASSWORD: wordpress123
 
 # Comandos de instalação
-curl -sSL  https://raw.githubusercontent.com/pietromleite/docker-compose/main/wp.sh > wp.sh
-sh wp.sh
+- curl -sSL  https://raw.githubusercontent.com/pietromleite/docker-compose/main/wp.sh > wp.sh
+- sh wp.sh
 
 # Detalhamento do processo
 Arquivos:
